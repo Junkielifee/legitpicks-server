@@ -1107,4 +1107,4 @@ app.listen(PORT, function() {
   console.log('Health check : http://localhost:' + PORT + '/api/health');
   console.log('Picks API    : http://localhost:' + PORT + '/api/picks?sport=football&dates=YYYY-MM-DD&numGames=10&betType=mixed');
   console.log('');
-});});
+});
